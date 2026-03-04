@@ -251,6 +251,7 @@ nav a{
 }
 .wedding-planner2 img{
     width: 70%;
+    width: -webkit-fill-available;
     display: block;
     margin: auto;
 }
