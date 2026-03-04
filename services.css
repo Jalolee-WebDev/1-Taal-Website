@@ -245,7 +245,15 @@ nav a{
     margin: auto;
 }
 
-
+.wedding-planner2 { 
+    text-align: center;
+    margin-top: 15%;
+}
+.wedding-planner2 img{
+    width: 60%;
+    display: block;
+    margin: auto;
+}
 
 
 
